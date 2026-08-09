@@ -32,8 +32,8 @@ PROBLEM-SOLVING/
 │   │   │   └── problem.php
 │   │   └── ...
 │   │
-│   └── Hard/
-│       ├── Problem-Folders-Name/
+│   ├── Hard/
+│   │   ├── Problem-Folders-Name/
 │   │   │   ├── problem.js
 │   │   │   └── problem.php
 │   │   └── ...
