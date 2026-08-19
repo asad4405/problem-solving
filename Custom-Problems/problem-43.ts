@@ -1,4 +1,4 @@
-// Problem 2 — Store Inventory Status
+// Problem 43 — Store Inventory Status
 // Concepts: function types, number, string, conditional logic, boundary conditions
 // Function name must be: getStockStatus
 // Scenario
