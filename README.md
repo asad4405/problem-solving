@@ -6,6 +6,7 @@ Welcome to my Problem Solving repository! Here I document my solutions to variou
 
 ## 🛠 Languages Used
 - **JavaScript (JS)**
+- **TypeScript (TS)**
 - **PHP**
 
 ---
