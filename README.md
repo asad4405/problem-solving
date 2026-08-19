@@ -15,8 +15,9 @@ Welcome to my Problem Solving repository! Here I document my solutions to variou
 ```text
 PROBLEM-SOLVING/
 ├── Custom-Problems/
-│   ├── problem.js
-│   ├── problem.php
+│   ├── problem-01.js
+│   ├── problem-02.ts
+│   ├── problem-03.php
 │   └── ...
 │
 ├── Edabit/
