@@ -1,4 +1,4 @@
-// Problem 3 — Social Media Profile Formatter
+// Problem 44 — Social Media Profile Formatter
 // Concepts: object types, type/interface, function parameter typing, return types, template literals
 // Function name must be: formatUserProfile
 // Scenario
